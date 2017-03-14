@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="38px" height="48px" viewBox="0 0 38 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.3.2 (12043) - http://www.bohemiancoding.com/sketch -->
+    <title>lock-check</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path id="path-1" d="M0.06,0 L38,0 L38,30.94 L0.06,30.94 L0.06,0 Z"></path>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Home" sketch:type="MSArtboardGroup" transform="translate(-874.000000, -1275.000000)">
+            <g id="lock-check" sketch:type="MSLayerGroup" transform="translate(874.000000, 1276.000000)">
+                <g id="Group-3" transform="translate(0.000000, 16.000000)">
+                    <mask id="mask-2" sketch:name="Clip 2" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <g id="Clip-2"></g>
+                    <path d="M2,2 L36,2 L36,29 L2,29 L2,2 Z M0,31 L38,31 L38,0 L0,0 L0,31 Z" id="Fill-1" fill="#899CAB" sketch:type="MSShapeGroup" mask="url(#mask-2)"></path>
+                </g>
+                <path d="M30,17 L30,11.005 C30,4.927 25.333,0 19.255,0 L18.87,0 C12.792,0 8,4.927 8,11.005 L8,17 M25,18 L25,10.102 C25,7.063 22.198,5 19.159,5 L18.966,5 C15.927,5 13,7.063 13,10.102 L13,18 M11.224,31.09 L15.927,35.84 L26.901,24.755" id="Stroke-4" stroke="#899CAB" stroke-width="2" sketch:type="MSShapeGroup"></path>
+            </g>
+        </g>
+    </g>
+</svg>

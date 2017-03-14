@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="109px" height="90px" viewBox="0 0 109 90" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.3.2 (12043) - http://www.bohemiancoding.com/sketch -->
+    <title>customer-retention</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Home" sketch:type="MSArtboardGroup" transform="translate(-731.000000, -507.000000)">
+            <g id="customer-retention" sketch:type="MSLayerGroup" transform="translate(732.000000, 488.000000)">
+                <rect id="Rectangle-183" sketch:type="MSShapeGroup" x="0" y="0" width="110" height="131"></rect>
+                <path d="M91.743,63.516 L99.832,70.303 L106.62,62.214 L99.843,69.922 C99.843,42.351 77.492,20 49.921,20 C22.35,20 0,42.351 0,69.922 C0,85.182 6.847,98.843 17.637,108 L17.654,107.981 L17.654,98.054 C17.654,87.58 26.349,80.964 37.348,78.175 L37.348,73.331 C34.926,71.196 33.783,68.135 33.265,64.543 C32.508,63.767 31.768,62.285 31.328,60.499 C30.636,57.69 30.947,55.198 32.022,54.934 C32.256,54.876 32.508,54.935 32.766,55.082 C32.517,50.916 31.893,44.183 31.893,42.017 C31.893,36.042 36.737,31.198 42.713,31.198 C43.734,31.198 44.72,31.342 45.656,31.606 C47.039,29.946 49.12,28.888 51.45,28.888 C54.339,28.888 56.846,30.515 58.111,32.902 C62.056,33.563 65.065,36.984 65.065,41.116 C65.065,43.34 64.401,50.681 64.171,55.203 C64.492,54.966 64.809,54.862 65.099,54.934 C66.174,55.198 66.485,57.69 65.793,60.499 C65.347,62.309 64.594,63.805 63.826,64.572 C63.441,68.09 62.496,71.092 60.203,73.217 L60.203,77.661 C72.262,80.078 82.189,86.862 82.189,98.054 L82.189,107.974" stroke="#EEC02A" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" sketch:type="MSShapeGroup"></path>
+            </g>
+        </g>
+    </g>
+</svg>
